@@ -1,2 +1,2 @@
-# Categorical_scaater_plot
+# Categorical_scatter_plot
 Data Visualization of categorical data
